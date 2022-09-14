@@ -10,7 +10,7 @@ This application is written in the python 3.7 language. It uses the 'pandas', 'p
 
 
 ---
-`
+
 ## Optimization
 
 ![](https://user-images.githubusercontent.com/106558893/190239966-1d3a8104-efac-444b-b50c-57faa3abc605.png)
@@ -34,7 +34,7 @@ This is the original strategy actual return vs strategy return.
 
 
 ---
-`
+
 ## Contributors
 
 This application was developed by Jake Wheeler. I can be contacted at jpwheeler93@gmail.com
