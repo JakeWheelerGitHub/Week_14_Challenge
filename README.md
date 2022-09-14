@@ -13,7 +13,8 @@ This application is written in the python 3.7 language. It uses the 'pandas', 'p
 `
 ## Optimization
 
-![](images/Original%20Strategy.png)
+![](https://user-images.githubusercontent.com/106558893/190239643-99a7c8b7-d064-4981-b0bd-2b8b363a672a.png)
+
 This is the original strategy actual return vs strategy return. 
 
 1. Change the size of the training dataset
